@@ -1,0 +1,22 @@
+
+.div-producto{
+    width: 50%;
+    margin: 20px auto auto auto;
+    background: white;
+    padding: 10px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 10px 10px 39px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 39px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 39px 0px rgba(0,0,0,0.75);
+}
+h1{
+    width: 100%;
+    text-align: center;
+}
+.price{
+    color: green;
+    text-align: center;
+}
